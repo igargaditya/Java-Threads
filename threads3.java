@@ -1,3 +1,5 @@
+// Thread Methods - priority and yield
+
 class prioritythreads extends Thread {
     public prioritythreads(String name) {
         super(name);
