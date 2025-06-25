@@ -1,3 +1,5 @@
+// How to make and run threads
+
 class thread_one extends Thread {
     @Override
     public void run() {
