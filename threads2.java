@@ -1,3 +1,5 @@
+// Thread States - new,runnable,running,waiting/block,terminated
+
 class threads2 extends Thread {
     @Override
     public void run() {
