@@ -35,9 +35,9 @@ class yieldthreads extends Thread {
 public class threads3 {
     public static void main(String[] args) {
 
-        prioritythreads t1 = new prioritythreads("High Priority");
-        prioritythreads t2 = new prioritythreads("Medium Priority");
-        prioritythreads t3 = new prioritythreads("Low priority");
+        // prioritythreads t1 = new prioritythreads("High Priority");
+        // prioritythreads t2 = new prioritythreads("Medium Priority");
+        // prioritythreads t3 = new prioritythreads("Low priority");
 
         // Setting the priorities but since multicore in any order executed
         // t1.setPriority(Thread.MAX_PRIORITY);
