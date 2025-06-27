@@ -1,3 +1,5 @@
+// Implict Lock
+
 class Counter {
     private int count;
 
