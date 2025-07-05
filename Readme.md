@@ -10,3 +10,4 @@ This Repository contains information about threads in Java
 8. Threads8 - Fairness of locks, FIFO
 9. Threads9 - Reentrant lock read and write
 10. Threads10 - Threads Communication - wait() , notify() , notifyAll()
+11. Threads11 - Creating Threads using anonymous inner classes and Lambda Expression
